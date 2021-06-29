@@ -1,0 +1,7 @@
+{
+  "name": "custom-css-line-split-plugin",
+  "version": "1.0.0",
+  "private": true,
+  "license": "MIT",
+  "main": "custom-css-line-split-plugin.js"
+}
